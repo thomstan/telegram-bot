@@ -1,0 +1,17 @@
+# Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Bot-generated folders
+Uploads/
+Out_right/
+
+# Data folder: keep folder but ignore contents
+data/*
+!data/.gitkeep
+
+# Docker
+*.dockerfile
